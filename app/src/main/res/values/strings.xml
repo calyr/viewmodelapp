@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">viewmodelapp</string>
+    <string name="btn_service">Servicios</string>
+    <string name="btn_por">Portafolio</string>
+</resources>
